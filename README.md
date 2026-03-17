@@ -76,7 +76,7 @@ else:
 
 # Output : 
 <img width="649" height="405" alt="image" src="https://github.com/user-attachments/assets/12e58e93-b7d4-439f-8f29-f8c77d7ab96f" />
-
+https://github.com/Ragul1626/Poisson_distribution/edit/main/README.md
 
 
 # Results
